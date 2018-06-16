@@ -1,0 +1,17 @@
+
+body{
+    font-family: 'Nanum Gothic', sans-serif;
+}
+#header{
+    height: 50px;
+    background: rgb(27, 27, 27);
+    width: 100%;
+    padding: 1px;
+}
+#heading-conteiner{
+    color: white;
+    margin: 0px auto;
+    width: 50px;
+    font-size: 25px;
+    margin-top: 7px;
+}
